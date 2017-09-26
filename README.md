@@ -22,7 +22,7 @@ PDFs de la web empaperem.cat que la GC ha blocat.
 
 [![Negre](https://user-images.githubusercontent.com/32293435/30850988-99a58544-a2a7-11e7-8915-bb99a9126201.png)](https://github.com/empaperempdf/empaperem-pdfs/files/1332370/empaperemnegre2.pdf)
 
-[![Papereta electoral(https://user-images.githubusercontent.com/32293435/30850992-9c5c9a0c-a2a7-11e7-843d-348474ec3ec6.png)](https://github.com/empaperempdf/empaperem-pdfs/files/1332371/empaperempapereta.pdf)
+[![Papereta electoral](https://user-images.githubusercontent.com/32293435/30850992-9c5c9a0c-a2a7-11e7-843d-348474ec3ec6.png)](https://github.com/empaperempdf/empaperem-pdfs/files/1332371/empaperempapereta.pdf)
 
 [![Català A3](https://user-images.githubusercontent.com/32293435/30850994-9fb53452-a2a7-11e7-993a-4d5553fb241c.png)](https://github.com/empaperempdf/empaperem-pdfs/files/1332372/empaperemcata3.pdf)
 
