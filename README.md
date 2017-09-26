@@ -1,8 +1,9 @@
 # empaperem-pdfs
 PDFs de la web empaperem.cat que la GC ha blocat.
 
-![Català](https://user-images.githubusercontent.com/32293435/30850930-748246ee-a2a7-11e7-8c40-2e4c99740455.png)
-[empaperem-blanc.pdf](https://github.com/empaperempdf/empaperem-pdfs/files/1332367/empaperem-blanc.pdf)
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
+[![Català](https://user-images.githubusercontent.com/32293435/30850930-748246ee-a2a7-11e7-8c40-2e4c99740455.png)](https://github.com/empaperempdf/empaperem-pdfs/files/1332367/empaperem-blanc.pdf)
 
 ![Castellano](https://user-images.githubusercontent.com/32293435/30850941-7b1c21e6-a2a7-11e7-8386-fc32ba2c0724.png)
 [empaperemesp.pdf](https://github.com/empaperempdf/empaperem-pdfs/files/1332366/empaperemesp.pdf)
@@ -69,3 +70,4 @@ PDFs de la web empaperem.cat que la GC ha blocat.
 
 ![PDECAT](https://user-images.githubusercontent.com/32293435/30851028-b5e36474-a2a7-11e7-96db-fc1f4713ee11.png)
 [empaperempdecat.pdf](https://github.com/empaperempdf/empaperem-pdfs/files/1332384/empaperempdecat.pdf)
+
